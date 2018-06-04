@@ -8,8 +8,8 @@
         <customObject id="-2" userLabel="File's Owner" customClass="CollectionViewItem">
             <connections>
                 <outlet property="backView" destination="Hz6-mo-xeY" id="dgr-6M-E4P"/>
+                <outlet property="cusTextField" destination="Kzp-On-RIi" id="pQG-XY-rgW"/>
                 <outlet property="imgView" destination="ktL-2Q-YNy" id="y0x-ug-3OU"/>
-                <outlet property="textField" destination="Kzp-On-RIi" id="Bv8-H5-Q97"/>
                 <outlet property="view" destination="Hz6-mo-xeY" id="0bl-1N-x8E"/>
             </connections>
         </customObject>

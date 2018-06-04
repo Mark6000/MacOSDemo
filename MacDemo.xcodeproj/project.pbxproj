@@ -437,7 +437,7 @@
 				CODE_SIGN_ENTITLEMENTS = MacDemo/MacDemo.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = HM8T9Z89U9;
+				DEVELOPMENT_TEAM = A95J37CEL7;
 				INFOPLIST_FILE = MacDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -455,7 +455,7 @@
 				CODE_SIGN_ENTITLEMENTS = MacDemo/MacDemo.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = HM8T9Z89U9;
+				DEVELOPMENT_TEAM = A95J37CEL7;
 				INFOPLIST_FILE = MacDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
